@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there , I'm [HeWang!](https://hewang234.github.io) 👋
+
+[中文版](./README-ZH.md)
 
 <!--
 **HeWang234/HeWang234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there , I'm [HeWang!](https://hewang234.github.io) 👋
-
-
-
 ### 📫 How to reach me
 
 - 💬 Ask me about anything [here](https://github.com/hewang234/hewang234/issues)
 - :email: ​Email: he.wang234@gmail.com
-- :globe_with_meridians: ​[知乎](https://www.zhihu.com/people/river-star)  <!--| [bilibili](https://space.bilibili.com/34209351)  |  [CSDN](https://blog.csdn.net/tSRXH?spm=1010.2135.3001.5343) |  [简书](https://www.jianshu.com/u/5609419cb3f0)-->
+- :globe_with_meridians: ​[ZhiHu](https://www.zhihu.com/people/river-star)  <!--| [bilibili](https://space.bilibili.com/34209351)  |  [CSDN](https://blog.csdn.net/tSRXH?spm=1010.2135.3001.5343) |  [简书](https://www.jianshu.com/u/5609419cb3f0)-->
 
 ### 😄 Fun at
 
